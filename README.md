@@ -14,22 +14,6 @@
 
 - The app stores every burger in the MySQL database, whether devoured or not.
 
-### Technology/packages used
-
-CSS 3
-
-Express
-
-Handlebars
-
-Heroku
-
-HTML 5
-
-MySQL
-
-Node
-
 ### MVC Directory structure
 
 This app roughly follows below structure:
@@ -69,3 +53,19 @@ This app roughly follows below structure:
     └── layouts
         └── main.handlebars
 ```
+
+### Technology/packages used
+
+CSS 3
+
+Express
+
+Handlebars
+
+Heroku
+
+HTML 5
+
+MySQL
+
+Node
