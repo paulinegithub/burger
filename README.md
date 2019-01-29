@@ -17,11 +17,17 @@
 ### Technology/packages used
 
 CSS 3
+
 Express
+
 Handlebars
+
 Heroku
+
 HTML 5
+
 MySQL
+
 Node
 
 #### MVC Directory structure
