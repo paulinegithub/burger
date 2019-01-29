@@ -30,7 +30,7 @@ MySQL
 
 Node
 
-#### MVC Directory structure
+### MVC Directory structure
 
 This app roughly follows below structure:
 
