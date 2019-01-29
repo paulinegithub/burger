@@ -1,7 +1,38 @@
+body, 
+html
+ {
+  background-color: #ffca63;
+}
+
+.btn-light {
+  color: #fff;
+  background-color: #ee5755;
+  border: none;
+}
+
+.btn-light:hover {
+  color: #ee5755;
+  background-color: #fff;
+  border: none;
+}
+
+.btn-dark {
+  color: #fff;
+  background-color: #ab6754;
+  border: none;
+}
+
+.btn-dark:hover {
+  color: #ab6754;
+  background-color: #fff;
+  border: none;
+}
+
 li {
   padding: 5px;
   margin: 5px;
   background: #faebd7;
+  /* background: #faf6d7; */
 }
 
 .label {

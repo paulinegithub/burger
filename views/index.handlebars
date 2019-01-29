@@ -1,38 +1,53 @@
-<h1>Burgers!</h1>
+<div class="container text-center">
+  <div class="row">
+    <div class="col-md-12">
+      <h1>Burgers!</h1>
 
-<h2>Burgers that are not devoured!</h2>
-
-<ol>
-  {{#each burgers}}
-    {{#unless devoured}}
-      {{> burgers/burger-block devoured=false}}
-    {{/unless}}
-  {{/each}}
-</ol>
-
-<h2>Burgers that are devoured!</h2>
-
-<ol>
-  {{#each burgers}}
-    {{#if devoured}}
-      {{> burgers/burger-block devoured=true}}
-    {{/if}}
-  {{/each}}
-</ol>
-
-<h2>Add a Burger</h2>
-<form class="add-burger">
-
-  <div class="form-group">
-    <label for="burger-name">Burger Name:</label>
-    <input type="text" id="burger-name" name="burger_name">
+      <img src="/assets/img/dat_burger_by_bobthelurker_d6evt4q.png" width="300">
+      <br>
+    </div>
   </div>
 
-  {{!-- <div class="form-group">
-    <label for="devoured">Devoured?</label><br>
-    <input type="radio" name="devoured" value="0" checked> Devoured!<br>
-    <input type="radio" name="devoured" value="1"> Not devoured
-  </div> --}}
+  <div class="row">
+    <div class="col-md-6">
+      <h2>Burgers that are not devoured!</h2>
+      <ol>
+        {{#each burgers}}
+        {{#unless devoured}}
+        {{> burgers/burger-block devoured=false}}
+        {{/unless}}
+        {{/each}}
+      </ol>
+    </div>
+    <div class="col-md-6">
+      <h2>Burgers that are devoured!</h2>
+      <ol>
+        {{#each burgers}}
+        {{#if devoured}}
+        {{> burgers/burger-block devoured=true}}
+        {{/if}}
+        {{/each}}
+      </ol>
+    </div>
+  </div>
 
-  <button type="submit">Add Burger</button>
-</form>
+  <div class="row">
+    <div class="col-md-12">
+      <h2>Add a Burger</h2>
+      <form class="add-burger">
+
+        <div class="form-group">
+          <label for="burger-name">Burger Name:</label>
+          <input type="text" id="burger-name" name="burger_name">
+        </div>
+
+        <button type="submit" id="submit" class="btn btn-dark">Add Burger</button>
+      </form>
+
+    </div>
+  </div>
+
+  <footer>
+    <br>Credits: <a href="https://www.deviantart.com/bobthelurker/art/Dat-Burger-387795770" target="_blank">Burger image</a>
+  </footer>
+</div>
