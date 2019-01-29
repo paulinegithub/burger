@@ -4,6 +4,10 @@ html
   background-color: #ffca63;
 }
 
+.row {
+  margin-bottom: 20px;
+}
+
 .btn-light {
   color: #fff;
   background-color: #ee5755;
