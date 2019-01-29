@@ -56,6 +56,8 @@ This app roughly follows below structure:
 
 ### Technology/packages used
 
+Bootstrap
+
 CSS 3
 
 Express
