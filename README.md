@@ -68,6 +68,8 @@ Heroku
 
 HTML 5
 
+Javascript/JQuery
+
 MySQL
 
 Node
