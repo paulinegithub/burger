@@ -1,8 +1,8 @@
 # Eat-Da-Burger! - MySQL, Node, Express & Handlebars
 
-[Eat-Da-Burger](https://burgerpls.herokuapp.com/)
+[https://burgerpls.herokuapp.com/](https://burgerpls.herokuapp.com/)
 
-![Burger](/public/assets/img/burger.PNG)
+![Burger demo](/public/assets/img/burger.gif)
 
 ### Overview
 
