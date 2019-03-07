@@ -71,7 +71,7 @@ This app roughly follows the Model-View-Controller (MVC) folder structure below:
 - [Node.js](https://nodejs.org/en/) - Open-source run-time environment that executes JS code outside of a browser.
 - [Visual Studio Code](https://code.visualstudio.com/) - Source code editor developed by Microsoft.
 
-## npm packages used:
+#### npm packages used:
 
 - [dotenv](https://www.npmjs.com/package/dotenv) - Zero-dependency module that loads environment variables from a .env file into process.env.
 - [Express](https://expressjs.com/) - Fast, unopinionated, minimalist web framework for node.
