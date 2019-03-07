@@ -62,14 +62,21 @@ This app roughly follows the Model-View-Controller (MVC) folder structure below:
 
 - [Bootstrap](https://getbootstrap.com/) - Front-end component library for developing with HTML, CSS, and JS.
 - CSS3
-- [Express](https://expressjs.com/) - Fast, unopinionated, minimalist web framework for node.
 - [Handlebars.js](https://handlebarsjs.com) - Templating engine based on the Mustache template language.
 - [Heroku](https://heroku.com) - cloud platform as a service supporting several programming languages.
 - HTML5
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - High-level programming language.
 - [jQuery](https://jquery.com/) - JavaScript library.
-- [MySQL](https://www.mysql.com/products/workbench/) - Visual tool for database architects.
+- [MySQL Workbench](https://www.mysql.com/products/workbench/) - Visual tool for database architects.
 - [Node.js](https://nodejs.org/en/) - Open-source run-time environment that executes JS code outside of a browser.
+- [Visual Studio Code](https://code.visualstudio.com/) - Source code editor developed by Microsoft.
+
+## npm packages used:
+
+- [dotenv](https://www.npmjs.com/package/dotenv) - Zero-dependency module that loads environment variables from a .env file into process.env.
+- [Express](https://expressjs.com/) - Fast, unopinionated, minimalist web framework for node.
+- [express-handlebars](https://www.npmjs.com/package/express-handlebars) - A Handlebars view engine for Express.
+- [mysql](https://www.npmjs.com/package/mysql)
 
 ---
 
