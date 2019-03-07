@@ -6,7 +6,7 @@
 
 ---
 
-## Overview
+## Overview:
 
 - Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.
 
@@ -18,7 +18,7 @@
 
 ---
 
-## MVC Directory structure
+## MVC Directory structure:
 
 This app roughly follows the Model-View-Controller (MVC) folder structure below:
 
