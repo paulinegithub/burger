@@ -2,7 +2,7 @@
 
 ## Link to deployed app: [https://burgerpls.herokuapp.com/](https://burgerpls.herokuapp.com/)
 
-![Burger demo](/public/assets/img/burger.gif)
+![Burger demo](./public/assets/img/burger.gif)
 
 ---
 
