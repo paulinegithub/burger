@@ -1,10 +1,12 @@
 # Eat-Da-Burger! - MySQL, Node, Express & Handlebars
 
-[https://burgerpls.herokuapp.com/](https://burgerpls.herokuapp.com/)
+## Link to deployed app: [https://burgerpls.herokuapp.com/](https://burgerpls.herokuapp.com/)
 
 ![Burger demo](/public/assets/img/burger.gif)
 
-### Overview
+---
+
+## Overview
 
 - Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.
 
@@ -14,9 +16,11 @@
 
 - The app stores every burger in the MySQL database, whether devoured or not.
 
-### MVC Directory structure
+---
 
-This app roughly follows below structure:
+## MVC Directory structure
+
+This app roughly follows the Model-View-Controller (MVC) folder structure below:
 
 ```
 .
@@ -54,22 +58,21 @@ This app roughly follows below structure:
         └── main.handlebars
 ```
 
-### Technology/packages used
+## Built with:
 
-Bootstrap
+- [Bootstrap](https://getbootstrap.com/) - Front-end component library for developing with HTML, CSS, and JS.
+- CSS3
+- [Express](https://expressjs.com/) - Fast, unopinionated, minimalist web framework for node.
+- [Handlebars.js](https://handlebarsjs.com) - Templating engine based on the Mustache template language.
+- [Heroku](https://heroku.com) - cloud platform as a service supporting several programming languages.
+- HTML5
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - High-level programming language.
+- [jQuery](https://jquery.com/) - JavaScript library.
+- [MySQL](https://www.mysql.com/products/workbench/) - Visual tool for database architects.
+- [Node.js](https://nodejs.org/en/) - Open-source run-time environment that executes JS code outside of a browser.
 
-CSS 3
+---
 
-Express
+## Author:
 
-Handlebars
-
-Heroku
-
-HTML 5
-
-Javascript/JQuery
-
-MySQL
-
-Node
+- **Pauline Senh** - [plsenh](https://github.com/plsenh)
