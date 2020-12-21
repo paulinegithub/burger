@@ -82,4 +82,4 @@ This app roughly follows the Model-View-Controller (MVC) folder structure below:
 
 ## Author:
 
-- **Pauline Senh** - [plsenh](https://github.com/plsenh)
+- **Pauline S.** - [paulinegithub](https://github.com/paulinegithub)
